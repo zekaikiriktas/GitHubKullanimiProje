@@ -1,0 +1,1 @@
+git pull ile alınan dosyayı değiştirdik ve uzak locale git push ile tekrar ilişkilendirdik
